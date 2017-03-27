@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="Background_White">#ffffff</color>
+    <color name="text_light">#30AD49</color>
+    <color name="statusBarColor">#30AD49</color>
+    <color name="navigationBarColor">#30AD49</color>
+
+    <color name="text_gray">#757575</color>
+    <color name="Bac_gray">#757575</color>
+    <color name="nav_header_back">#CCCCCC</color>
+    <color name="textColorPrimary">#CCCCCC</color>
+    <color name="white">#ffffff</color>
+
+    <color name="button_pressed">#C5CAE9</color>
+    <color name="button_focused">#B2DFDB</color>
+    <color name="button_default">#30AD49</color>
+
+    <color name="colorPrimaryDark">#00C853</color> <!-- [ GREEN - A700 ] -->
+    <color name="colorPrimary">#4CAF50</color> <!-- [ GREEN - 500 ] -->
+    <color name="colorPrimaryLight">#C8E6C9</color> <!-- [ GREEN - 100 ] -->
+    <color name="colorAccent">#30AD49</color> <!-- [ GREEN - A200 ] -->
+
+    <color name="textColorSecondary">#727272</color>
+
+    <color name="text">#FFFFFF</color>
+    <color name="icons">#FFFFFF</color>
+    <color name="divider">#B6B6B6</color>
+
+    <color name="colorControlNormal">@color/textColorSecondary</color>
+    <color name="colorControlActivated">@color/colorAccent</color>
+    <color name="colorControlHighlight">@color/divider</color>
+
+
+    <color name="colorButtonNormal">#30AD49</color>
+    <color name="colorSwitchThumbNormal">#19C1B2</color>
+
+
+    <color name="windowBackground">#C0C3C6</color>
+    <color name="lightBackground">#E0E0E0</color>
+    <color name="darkBackground">#424242</color>
+    <color name="drawerBackground">#FFfafafa</color>
+    <color name="rowBackground">#F2F2F2</color>
+</resources>

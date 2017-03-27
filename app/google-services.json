@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "90771459810",
+    "firebase_url": "https://soulcare-fb5ee.firebaseio.com",
+    "project_id": "soulcare-fb5ee",
+    "storage_bucket": "soulcare-fb5ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:90771459810:android:235885d45e5f148f",
+        "android_client_info": {
+          "package_name": "com.soulcare.shahin.soulcare.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "90771459810-n2uvcfv9hnubha62btcbcs5h6nj90hb3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDjHGsU7C41Q5BL7D2Swh4OdKNeaU4eDg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

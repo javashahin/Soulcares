@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <group android:checkableBehavior="single" >
+        <item
+            android:id="@+id/nav_Profile"
+
+            android:icon="@drawable/maa"
+            android:title="Profile" />
+
+        <item android:title="Full Care">
+            <menu>
+                <item
+
+                    android:id="@+id/nav_Food"
+                    android:icon="@drawable/food"
+                    android:title="Food menu" />
+                <item
+                    android:id="@+id/nav_Routine"
+                    android:icon="@drawable/rout"
+                    android:title="Daily Routine" />
+                <item
+                    android:id="@+id/nav_Madicine"
+                    android:icon="@drawable/medicine"
+                    android:title="Medicine " />
+                <item
+                    android:id="@+id/Nav_deangour"
+                    android:icon="@drawable/danger"
+                    android:title="Deanger Syntoms" />
+
+            </menu>
+        </item>
+        <item android:title="Extra Care"
+            >
+
+            <menu>
+                <item
+
+                    android:id="@+id/Nav_near_Hospital"
+                    android:icon="@drawable/hospital"
+                    android:title="Near Hospital" />
+                <item
+                    android:id="@+id/Nav_care"
+                    android:icon="@drawable/emergancy"
+                    android:title=" Emergancy" />
+                <item
+                    android:id="@+id/Nav_Extra_Care"
+                    android:icon="@drawable/hert"
+                    android:title="Join Outher" />
+
+            </menu>
+
+        </item>
+        <item
+            android:id="@+id/Nav_setting"
+            android:icon="@drawable/setting"
+            android:title=" Setting" />
+    </group>
+
+
+
+</menu>
